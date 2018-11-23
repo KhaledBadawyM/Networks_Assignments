@@ -1,3 +1,3 @@
 # Networks_Assignments
 
-executable files are generated in a linux machine 
+Executable files are generated in a linux machine 
